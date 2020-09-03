@@ -1,2 +1,2 @@
 # Damnation
-Name Pending
+Small mod for an existing game system
