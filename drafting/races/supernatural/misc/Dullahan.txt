@@ -1,0 +1,35 @@
+
+= Weakness to Gold
+Dullahan are weak to gold.
+
+= Detachable Head
+Head can be safely removed.
+Neck hitpoint is ineffective
+Chokeholds are ineffective
+
+= Bodily Autonomy
+A Dullahan's body will continue operating even without their head in their immediate vicinity or if knocked unconscious. (The body will be considered a separate entity in these instances.)
+
+= Soul Sight
+Can see spirits and such
+
+= Soul Eater
+Can eat spirits and such for recovery/power
+
+= No Material Needs
+A Dullahan does not require food, water, or air to survive.
+
+= Poison Immunity
+A Dullahan cannot be poisoned
+
+= Weakspot: Head
+A Dullahan's weak spot is their head
+
+= Damage Resistant
+The body of a Dullahan is exceptionally hardy. Despite their resemblance to humans they possess few of the same weaknesses. Your best bet is to attempt to disable or hamper the body. It may be tempting to run a Dullahan through with a sword, all you'll achieve is getting far closer to it than you really should.
+
+= Untiring
+A Dullahan does not and will not stop. They don't run out of breath. They don't drown. They don't have to stop and take a leak. While the head may tire sleep the body wont.
+
+= Level Penalty
++ 2

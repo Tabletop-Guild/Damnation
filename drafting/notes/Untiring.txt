@@ -1,0 +1,2 @@
+= Notes
+Untiring entities typically don't have spendable fatigue points. In this case it might be reasonable to replace fatigue points or add additional systems that may be used in place of fatigue points. 
