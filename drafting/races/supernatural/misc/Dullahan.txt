@@ -33,3 +33,7 @@ A Dullahan does not and will not stop. They don't run out of breath. They don't 
 
 = Level Penalty
 + 2
+
+= Characteristic Bonuses
+Constitution + 2
+Perception + 1

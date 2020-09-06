@@ -24,3 +24,7 @@ In addition to people it's also possible for ghosts to possess items. Though it 
 
 = Level Penalty
 + 2
+
+= Characteristic Bonuses
+Power + 2
+Willpower Bonus + 1
