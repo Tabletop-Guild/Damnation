@@ -22,6 +22,9 @@ Most ghosts have at least a limited ability to possess people as well as things.
 
 In addition to people it's also possible for ghosts to possess items. Though it cannot be maintained indefinitely spirits have been known to possess a variety of items and even specially built constructs designed to be possessed by a spirit.
 
+= Bodyless
+Ghosts are spirits or souls that lack a body. Thus, they naturally possess a Constitution of 0, and use their Power characteristic in place of it.
+
 = Level Penalty
 + 2
 
